@@ -24,4 +24,5 @@ Route::get('/', function () {
 Route::get('/Casa', function () {
     
     return view('casa');
+    
 });
